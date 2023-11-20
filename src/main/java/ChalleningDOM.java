@@ -25,5 +25,7 @@ public class ChalleningDOM {
         String expectedColor3="#5da423";
         Assert.assertEquals(actualColor3,expectedColor3);*/
         task.PrintIpsumvalues();
+        task.PrintDolorvalues();
+        task.PrintAmetvalues();
     }
 }
